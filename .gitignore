@@ -16,3 +16,5 @@ data/data.json
 
 # Logs
 *.log
+
+.DS_Store

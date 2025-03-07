@@ -32,9 +32,14 @@ Before running this project, ensure you have the following:
    ```bash
    git clone https://github.com/your-username/Iranian-Road-Info-Bot.git
    cd Iranian-Road-Info-Bot
-   
+### Start
+Just start the bot.
 ![Start](images/start.jpg)
+### Main Menu
+When you start the bot, you’ll see the main menu with options to check road conditions and closures.
 ![Main Menu](images/main_menu.jpg)
+### Road Conditions
+The bot provides real-time updates on road conditions and closures.
 ![Road Conditions](images/road_conditions.jpg)
 
 
